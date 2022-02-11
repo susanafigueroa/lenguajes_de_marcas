@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  version="2.0"> 
+    <channel>
+        <title>HORARI I CALENDARI</title>
+        <link>https://www.portaventuraworld.com/ca/horaris-calendari</link>
+        <description>Horari i Calendari del Parc Port Aventura World</description> 
+        <skipDays>
+            <day>Tuesday</day>
+            <day>Wednesday</day>
+            <day>Thursday</day>
+            <day>Friday</day>
+            <day>Saturday</day>
+            <day>Sunday</day>
+        </skipDays>
+        <category>horaris</category>
+        <lastBuildDate>Mon, 24 Jan 2022 22:00:00 +0100</lastBuildDate>
+        <language>ca</language>
+        <managingEditor>shiun7@gmail.com</managingEditor>
+    <item>
+        <title>
+            <![CDATA[<h1>HORARI I CALENDARI</h1>]]>
+        </title>
+        <link>https://www.portaventuraworld.com/ca/horaris-calendari</link>
+        <description>
+            <![CDATA[
+                <p><img src="example_web/rss/img_rss/calendar.jpg"></p>
+                <p>De moment el parc no està obert fins que les autoritats sanitàries ho permetin.</p>
+            ]]>
+        </description>
+        <guid isPermaLink="false">001N</guid>
+        <author>shiun7@gmail.com</author>
+        <pubDate>Mon, 24 Jan 2022 22:00:00 +0100</pubDate>
+    </item>
+    </channel>
+</rss>
+

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  version="2.0"> 
+    <channel>
+        <title>RESTAURANTS</title>
+        <link>https://www.portaventuraworld.com/ca/restaurants</link>
+        <description>Restaurants del Parc PortAventura World</description> 
+        <skipHours>
+            <hour>10</hour>
+            <hour>11</hour>
+            <hour>12</hour>
+            <hour>13</hour>
+            <hour>14</hour>
+            <hour>15</hour>
+            <hour>16</hour>
+            <hour>17</hour>
+            <hour>18</hour>
+            <hour>19</hour>
+            <hour>20</hour>
+            <hour>21</hour>
+            <hour>22</hour>
+            <hour>23</hour>
+            <hour>0</hour>
+            <hour>1</hour>
+        </skipHours>
+        <category>restaurants</category>
+        <lastBuildDate>Mon, 24 Jan 2022 22:00:00 +0100</lastBuildDate>
+        <language>ca</language>
+        <managingEditor>shiun7@gmail.com</managingEditor>
+    <item>
+        <title>
+            <![CDATA[<h1>RACÓ DE MAR</h1>]]>
+        </title>
+        <link>https://www.portaventuraworld.com/ca/restaurants/raco-de-mar</link>
+        <description>
+            <![CDATA[
+                <p><img src="example_web/rss/img_rss/zona_mediterranea_RACO_DE_MAR.jpg"></p>
+                <p>No hi ha res més agradable que gaudir de la terrassa d’un autèntic poble de pescadors. Degusta productes de gran qualitat a Racó de Mar i viu una experiència inoblidable per als teus sentits.</p>
+            ]]>
+        </description>
+        <category>zona_mediterrànea/menú_infantil/menjar_sense_gluten/servei_a_taula</category>
+        <guid isPermaLink="false">001N</guid>
+        <author>shiun7@gmail.com</author>
+        <pubDate>Mon, 24 Jan 2022 22:00:00 +0100</pubDate>
+    </item>
+    <item>
+        <title>
+            <![CDATA[<h1>BORA BORA</h1>]]>
+        </title>
+        <link>https://www.portaventuraworld.com/ca/restaurants/bora-bora</link>
+        <description>
+            <![CDATA[
+                <p><img src="example_web/rss/img_rss/zona_polynesia_BORA_BORA.jpg"></p>
+                <p>L’exquisit restaurant Bora Bora recrea una casa tradicional de la Polinèsia, construïda amb fusta i bambú, envoltada de la vegetació més tropical.</p>
+            ]]>
+        </description>
+        <category>zona_polynesia/menú_infantil/menjar_sense_gluten/menú_vegà/menú_vegetarià/self_service</category>
+        <guid isPermaLink="false">002N</guid>
+        <author>shiun7@gmail.com</author>
+        <pubDate>Mon, 24 Jan 2022 22:00:00 +0100</pubDate>
+    </item>
+    <item>
+        <title>
+            <![CDATA[<h1>MARCO POLO</h1>]]>
+        </title>
+        <link>https://www.portaventuraworld.com/ca/restaurants/marco-polo</link>
+        <description>
+            <![CDATA[
+                <p><img src="example_web/rss/img_rss/zona_china_MARCO_POLO.jpg"></p>
+                <p>Al Buffet Marco Polo et sentiràs com un autèntic explorador mentre degustes un gran ventall d’exquisits plats diferents de la cuina internacional.</p>
+            ]]>
+        </description>
+        <category>zona_china/menjar_sense_gluten/menú_infantil/buffet</category>
+        <guid isPermaLink="false">003N</guid>
+        <author>shiun7@gmail.com</author>
+        <pubDate>Mon, 24 Jan 2022 22:00:00 +0100</pubDate>
+    </item>
+    <item>
+        <title>
+            <![CDATA[<h1>LA CANTINA</h1>]]>
+        </title>
+        <link>https://www.portaventuraworld.com/ca/restaurants/la-cantina</link>
+        <description>
+            <![CDATA[
+                <p><img src="example_web/rss/img_rss/zona_mexico_LA_CANTINA.jpg"></p>
+                <p>Uneix-te a la festa que hi ha preparada per a tu al restaurant La Cantina, mentre assaboreixes uns deliciosos nachos amb guacamole, un bon plat de xili amb carn o la típica amanida mexicana. Gaudeix de l’espectacle!</p>
+            ]]>
+        </description>
+        <category>zona_mexico/menjar_sense_gluten/menú_infantil/autoservei</category>
+        <guid isPermaLink="false">004N</guid>
+        <author>shiun7@gmail.com</author>
+        <pubDate>Mon, 24 Jan 2022 22:00:00 +0100</pubDate>
+    </item>
+    </channel>
+</rss>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  version="2.0"> 
+    <channel>
+        <title>BOTIGUES</title>
+        <link>https://www.portaventuraworld.com/ca/botigues</link>
+        <description>Botigues del Parc PortAventura World</description> 
+        <skipDays>
+            <day>Monday</day>
+            <day>Tuesday</day>
+            <day>Wednesday</day>
+            <day>Thursday</day>
+            <day>Friday</day>
+        </skipDays>
+        <category>botigues</category>
+        <lastBuildDate>Mon, 24 Jan 2022 22:00:00 +0100</lastBuildDate>
+        <language>ca</language>
+        <managingEditor>shiun7@gmail.com</managingEditor>
+    <item>
+        <title>
+            <![CDATA[<h1>MAS FONOLL</h1>]]>
+        </title>
+        <link>https://www.portaventuraworld.com/ca/botigues/mas-fonoll</link>
+        <description>
+            <![CDATA[
+                <p><img src="example_web/rss/img_rss/zona_mediterranea_MAS_FONOLL.jpg"></p>
+                <p>Ideal per als més despistats o per als qui compren a darrera hora. Tria entre la gran varietat de productes temàtics i fantàstics articles de regal. Se’t farà complicat decidir-te!</p>
+            ]]>
+        </description>
+        <category>zona_mediterrànea/souvenirs</category>
+        <guid isPermaLink="false">001N</guid>
+        <author>shiun7@gmail.com</author>
+        <pubDate>Mon, 24 Jan 2022 22:00:00 +0100</pubDate>
+    </item>
+    <item>
+        <title>
+            <![CDATA[<h1>SUPERDRY</h1>]]>
+        </title>
+        <link>https://www.portaventuraworld.com/ca/botigues/surf-paradise</link>
+        <description>
+            <![CDATA[
+                <p><img src="example_web/rss/img_rss/zona_polynesia_SUPERDRY.jpg"></p>
+                <p>Fes surf amb la moda més estiuenca, sempre disponible a la nostra botiga Superdry : la roba més moderna i estiuenca perquè mai no falti res al teu fons d’armari.</p>
+            ]]>
+        </description>
+        <category>zona_polynesia/moda</category>
+        <guid isPermaLink="false">002N</guid>
+        <author>shiun7@gmail.com</author>
+        <pubDate>Mon, 24 Jan 2022 22:00:00 +0100</pubDate>
+    </item>
+    <item>
+        <title>
+            <![CDATA[<h1>LOTUS PALACE</h1>]]>
+        </title>
+        <link>https://www.portaventuraworld.com/ca/botigues/lotus-palace</link>
+        <description>
+            <![CDATA[
+                <p><img src="example_web/rss/img_rss/zona_china_LOTUS_PALACE.jpg"></p>
+                <p>Fes com Marco Polo i emporta’t a casa curiosos articles i productes dels exòtics indrets que has descobert a PortAventura China,tots importats directament de l’antic Imperi Xinès. </p>
+            ]]>
+        </description>
+        <category>zona_china/artesania_i_decoració</category>
+        <guid isPermaLink="false">003N</guid>
+        <author>shiun7@gmail.com</author>
+        <pubDate>Mon, 24 Jan 2022 22:00:00 +0100</pubDate>
+    </item>
+    <item>
+        <title>
+            <![CDATA[<h1>TAXCO</h1>]]>
+        </title>
+        <link>https://www.portaventuraworld.com/ca/botigues/taxco</link>
+        <description>
+            <![CDATA[
+                <p><img src="example_web/rss/img_rss/zona_mexico_TAXCO.jpg"></p>
+                <p>A PortAventura també hem pensat en els moments que donaran el toc més dolç a la teva experiència. Per això, a la botiga Taxco trobaràs una gran varietat de llaminadures d’Haribo i PortAventura. Tria la que més t’agradi!</p>
+            ]]>
+        </description>
+        <category>zona_mexico/llaminadures</category>
+        <guid isPermaLink="false">004N</guid>
+        <author>shiun7@gmail.com</author>
+        <pubDate>Mon, 24 Jan 2022 22:00:00 +0100</pubDate>
+    </item>
+    </channel>
+</rss>

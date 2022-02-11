@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  version="2.0"> 
+    <channel>
+        <title>ATRACCIONS</title>
+        <link>https://www.portaventuraworld.com/ca/atraccions</link>
+        <description>Atraccions del Parc PortAventura World</description> 
+        <skipDays>
+            <day>Friday</day>
+            <day>Saturday</day>
+            <day>Sunday</day>
+        </skipDays>
+        <skipHours>
+            <hour>8</hour>
+            <hour>9</hour>
+            <hour>10</hour>
+            <hour>11</hour>
+            <hour>12</hour>
+            <hour>13</hour>
+            <hour>14</hour>
+            <hour>15</hour>
+            <hour>16</hour>
+        </skipHours>
+        <category>atraccions</category>
+        <lastBuildDate>Mon, 24 Jan 2022 22:00:00 +0100</lastBuildDate>
+        <language>ca</language>
+        <managingEditor>shiun7@gmail.com</managingEditor>
+    <item>
+        <title>
+            <![CDATA[<h1>FURIUS BACO</h1>]]>
+        </title>
+        <link>https://www.portaventuraworld.com/ca/atraccions/furius-baco</link>
+        <description>
+            <![CDATA[
+                <p><img src="example_web/rss/img_rss/zona_mediterranea_FURIUSBACO.jpg"></p>
+                <p>Una llançadora sorprenent convertida en la muntanya russa, la més ràpida d’Europa.</p>
+            ]]>
+        </description>
+        <category>zona_mediterrànea/atracció_forta</category>
+        <guid isPermaLink="false">001N</guid>
+        <author>shiun7@gmail.com</author>
+        <pubDate>Mon, 24 Jan 2022 22:00:00 +0100</pubDate>
+    </item>
+    <item>
+        <title>
+            <![CDATA[<h1>KONTIKI</h1>]]>
+        </title>
+        <link>https://www.portaventuraworld.com/ca/atraccions/kontiki</link>
+        <description>
+            <![CDATA[
+                <p><img src="example_web/rss/img_rss/zona_polynesia_KONTIKI.jpg"></p>
+                <p>El catamarà Kontiki és l’únic capaç de resistir la ràbia d’una tempesta polinèsia. Uneix-te a l’expedició i resisteix als moviments d’un autèntic temporal.</p>
+            ]]>
+        </description>
+        <category>zona_polynesia/atracció_moderada</category>
+        <guid isPermaLink="false">002N</guid>
+        <author>shiun7@gmail.com</author>
+        <pubDate>Mon, 24 Jan 2022 22:00:00 +0100</pubDate>
+    </item>
+    <item>
+        <title>
+            <![CDATA[<h1>ANGKOR</h1>]]>
+        </title>
+        <link>https://www.portaventuraworld.com/ca/atraccions/angkor</link>
+        <description>
+            <![CDATA[
+                <p><img src="example_web/rss/img_rss/zona_china_ANGKOR.jpg"></p>
+                <p>Dispara amb la pistola d’aigua tots els obstacles que s’interposin en el teu camí mentre travesses la jungla; i desembarca com un autèntic heroi després de guanyar la gran batalla naval. </p>
+            ]]>
+        </description>
+        <category>zona_china/atracció_suau</category>
+        <guid isPermaLink="false">003N</guid>
+        <author>shiun7@gmail.com</author>
+        <pubDate>Mon, 24 Jan 2022 22:00:00 +0100</pubDate>
+    </item>
+    <item>
+        <title>
+            <![CDATA[<h1>YUCATÁN</h1>]]>
+        </title>
+        <link>https://www.portaventuraworld.com/ca/atraccions/yucatan</link>
+        <description>
+            <![CDATA[
+                <p><img src="example_web/rss/img_rss/zona_mexico_YUCATAN.jpg"></p>
+                <p>L’atracció Yucatan de PortAventura és una serp impressionant amb cap de drac que gira sense parar. Vine a divertir-te en una de les atraccions més entretingudes de PortAventura World!</p>
+            ]]>
+        </description>
+        <category>zona_mexico/atracció_moderada</category>
+        <guid isPermaLink="false">004N</guid>
+        <author>shiun7@gmail.com</author>
+        <pubDate>Mon, 24 Jan 2022 22:00:00 +0100</pubDate>
+    </item>
+    </channel>
+</rss>
